@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/playtec/courses_ws/src/course_cpp/include/**",
+        "/home/playtec/catkin_ws/src/goldfields_data_fing/include/**",
+        "/home/playtec/catkin_ws/src/goldfields_world/include/**",
+        "/home/playtec/QuanergySystems/lidar_ws/src/quanergy_client_ros/include/**",
+        "/home/playtec/catkin_ws/src/quanergym8_simulator/quanergy_gazebo_plugins/include/**",
+        "/home/playtec/courses_ws/src/rover_sim/include/**",
+        "/home/playtec/catkin_ws/src/velodyne_simulator/velodyne_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

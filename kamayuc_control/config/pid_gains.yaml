@@ -1,0 +1,8 @@
+gazebo_ros_control:
+  pid_gains:
+    left_w_l3_joint: {p: 1.0, i: 3.0, d: 0.0, i_clamp: 2.0}
+    right_w_l3_joint: {p: 1.0, i: 3.0, d: 0.0, i_clamp: 2.0}
+    left_w_l4_joint: {p: 1.0, i: 3.0, d: 0.0, i_clamp: 2.0}
+    right_w_l4_joint: {p: 1.0, i: 3.0, d: 0.0, i_clamp: 2.0}
+    left_w_l1_joint: {p: 1.0, i: 3.0, d: 0.0, i_clamp: 2.0}
+    right_w_l1_joint: {p: 1.0, i: 3.0, d: 0.0, i_clamp: 2.0}

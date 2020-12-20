@@ -1,0 +1,5 @@
+<launch>
+    <arg name="model" default="$(find kamayuc_description)/urdf/rover_v1.urdf.xacro"/>
+
+    <param name="robot_description" command="$(find xacro)/xacro $(arg model)" />
+</launch>
